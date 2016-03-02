@@ -267,4 +267,4 @@ var feed = new Instafeed({
     resolution: 'low_resolution',
     limit: 12
 });
-feed.run();
+// feed.run();

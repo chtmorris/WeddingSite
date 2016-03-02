@@ -49,6 +49,10 @@ p.large {
     font-size: 16px
 }
 
+p.lead.secondary-font {
+  line-height: initial;
+}
+
 a,
 a:hover,
 a:focus,
@@ -550,7 +554,7 @@ fieldset[disabled] .btn-primary.active {
 #headerwrap {
     background-color: #f3f3f3;
     overflow: hidden;
-    background-image: url('../img/bg/bgheart.jpg');
+    /*background-image: url('../img/bg/bgheart.jpg');*/
 }
 
 .opaque {

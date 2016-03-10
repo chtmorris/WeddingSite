@@ -1550,3 +1550,47 @@ footer.white-wrapper .social-links li a {
 #instafeed img {
     width: 16.666666%;
 }
+
+/*MOBILE BITS AND BOBS*/
+
+@media screen and (max-width: 450px) {
+  .navbar-header.page-scroll {
+    margin-right: 35px;
+  }
+
+  .navbar-brand.smoothie {
+    display: none;
+  }
+
+  ul.nav.navbar-nav.text-center {
+    margin-left: -150px;
+  }
+
+  .lead.a-quote.secondary-font {
+    font-size: 40px;
+  }
+
+  .loading-animation.animate-flicker {
+    margin-left: -30px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .navbar-header.page-scroll {
+    margin-right: 75px;
+  }
+
+  .loading-animation.animate-flicker {
+    margin-left: -50px;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .navbar-header.page-scroll {
+    margin-right: 125px;
+  }
+
+  .loading-animation.animate-flicker {
+    margin-left: -75px;
+  }
+}

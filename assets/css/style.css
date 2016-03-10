@@ -1575,7 +1575,7 @@ footer.white-wrapper .social-links li a {
   }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 410px) {
   .navbar-header.page-scroll {
     margin-right: 75px;
   }

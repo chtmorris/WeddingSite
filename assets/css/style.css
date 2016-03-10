@@ -1575,6 +1575,16 @@ footer.white-wrapper .social-links li a {
   }
 }
 
+@media screen and (max-width: 410px) {
+  .navbar-header.page-scroll {
+    margin-right: 55px;
+  }
+
+  .loading-animation.animate-flicker {
+    margin-left: -40px;
+  }
+}
+
 @media screen and (max-width: 400px) {
   .navbar-header.page-scroll {
     margin-right: 75px;
@@ -1585,7 +1595,7 @@ footer.white-wrapper .social-links li a {
   }
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 365px) {
   .navbar-header.page-scroll {
     margin-right: 90px;
   }

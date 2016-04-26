@@ -4,7 +4,7 @@ $(document).ready(function () {
     function(){
         if (this.checked) {
             console.log(this.name);
-            $('#attending').val($('#attending').val()+this.name + " "); 
+            $('#attending').val($('#attending').val()+"I will be attending the " + this.name + "\n"); 
         }
     });
 });

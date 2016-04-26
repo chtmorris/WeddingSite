@@ -735,6 +735,11 @@ section h3.section-subheading {
     transform: translateY(0px);
 }
 
+.rsvp-checkboxes{
+  margin: 30px 10px;
+  padding-top: 90px;
+}
+
 /*-----------------------------------------------------------------------------------*/
 /*  10 - HOVER CAPTIONS
 /*-----------------------------------------------------------------------------------*/
@@ -1214,7 +1219,7 @@ footer.white-wrapper .social-links li a {
 .main-contact-form textarea:focus,
 #commentform .main-contact-form textarea,
 #commentform .main-contact-form textarea:focus {
-    min-height: 250px !important;
+    min-height: 150px !important;
 }
 
 #comments {

@@ -1103,6 +1103,11 @@ footer.white-wrapper .social-links li a {
 /*  16 - FORM CONTROL
 /*-----------------------------------------------------------------------------------*/
 
+.google-form {
+  margin: 220px 0 50px 0;
+}
+
+
 .form-control {
     display: block;
     width: 100%;
